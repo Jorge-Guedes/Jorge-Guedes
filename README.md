@@ -8,8 +8,6 @@
 I develop web applications with special interest in the frontend, creating functional interfaces.
 <br><br><br>
 
----
-
 ## 💻 Tech
 
 <div align="center">
@@ -38,8 +36,6 @@ I develop web applications with special interest in the frontend, creating funct
 
 </div>
 
----
-
 ## 📫 Contact
 
 <div align="center">
@@ -47,8 +43,6 @@ I develop web applications with special interest in the frontend, creating funct
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-guedes/)
 
 </div>
-
----
 
 ## 📈 GitHub Analytics
 
@@ -81,5 +75,3 @@ I develop web applications with special interest in the frontend, creating funct
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jorge-Guedes&theme=tokyo-night&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 </div>
-
----
