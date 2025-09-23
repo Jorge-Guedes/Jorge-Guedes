@@ -56,7 +56,7 @@ I develop web applications with special interest in the frontend, creating funct
         <br>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jorge-Guedes&theme=tokyonight"
             alt="Profile Details" width="100%" />
-    </div>
+</div>
 
 ### 🏆 Achievements
 
