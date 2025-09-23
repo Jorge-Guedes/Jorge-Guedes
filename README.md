@@ -1,3 +1,4 @@
+
 # 💫 About Me
 
 <img align="right" height="120" src="https://avatars.githubusercontent.com/u/96554972?v=4" />
@@ -8,7 +9,7 @@ I develop web applications with special interest in the frontend, creating funct
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Tech
 
 <div align="center">
 
@@ -25,7 +26,7 @@ I develop web applications with special interest in the frontend, creating funct
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database & Tools
 
@@ -37,3 +38,56 @@ I develop web applications with special interest in the frontend, creating funct
 </div>
 
 ---
+
+## 📫 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-guedes/)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW01b2FodzVmN2FvNzVlOG12MXU1cGVjbzhtb2F3Mzd3eWppM3J2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lqekpTikE4qjXo5z9Q/giphy.gif" width="18" alt="Analytics GIF" height="16"/>
+  <b> Development Metrics </b>
+</div>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Guedes&show_icons=true&theme=tokyonight&hide_title=false&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&theme=tokyonight&hide_title=false&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="100%"/>
+      <br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jorge-Guedes&theme=tokyonight" alt="Profile Details" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jorge-Guedes&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+</div>
+
+### 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jorge-Guedes&theme=tokyo-night&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+</div>
+
+---
+
+## 📊 Project Repositories
+
+<div align="center">
+
+[![Node.js Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Guedes&repo=Projects-in-Nodejs-Nestjs&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117)](https://github.com/Jorge-Guedes/Projects-in-Nodejs-Nestjs)
+[![React Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Guedes&repo=Projects-in-React-Nextjs&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117)](https://github.com/Jorge-Guedes/Projects-in-React-Nextjs)
+
+</div>
