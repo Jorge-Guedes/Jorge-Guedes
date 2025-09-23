@@ -82,12 +82,3 @@ I develop web applications with special interest in the frontend, creating funct
 </div>
 
 ---
-
-## 📊 Project Repositories
-
-<div align="center">
-
-[![Node.js Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Guedes&repo=Projects-in-Nodejs-Nestjs&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117)](https://github.com/Jorge-Guedes/Projects-in-Nodejs-Nestjs)
-[![React Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Guedes&repo=Projects-in-React-Nextjs&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117)](https://github.com/Jorge-Guedes/Projects-in-React-Nextjs)
-
-</div>
