@@ -47,19 +47,14 @@ I develop web applications with special interest in the frontend, creating funct
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW01b2FodzVmN2FvNzVlOG12MXU1cGVjbzhtb2F3Mzd3eWppM3J2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lqekpTikE4qjXo5z9Q/giphy.gif" width="18" alt="Analytics GIF" height="16"/>
-  <b> Development Metrics </b>
-</div>
-
-<div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&theme=tokyonight&hide_title=false&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Guedes&show_icons=true&theme=tokyonight&hide_title=false&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&theme=tokyonight&hide_title=false&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="45%" style="margin-right: 5px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Guedes&show_icons=true&theme=tokyonight&hide_title=false&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" style="margin-left: 5px;"/>
   </div>
   
   <br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jorge-Guedes&theme=tokyonight" alt="Profile Details" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jorge-Guedes&theme=tokyonight" alt="Profile Details" width="90%"/>
 </div>
 
 ### 🏆 Achievements
