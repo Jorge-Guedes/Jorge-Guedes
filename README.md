@@ -47,9 +47,9 @@ I develop web applications with special interest in the frontend, creating funct
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&theme=tokyonight&hide_title=false&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="45%" style="margin-right: -10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Guedes&show_icons=true&theme=tokyonight&hide_title=false&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" style="margin-left: -10px;"/>
+  <div style="display: flex; justify-content: center; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&theme=tokyonight&hide_title=false&title_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Guedes&show_icons=true&theme=tokyonight&hide_title=false&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%"/>
   </div>
   
   <br>
