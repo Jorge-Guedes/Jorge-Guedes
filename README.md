@@ -6,9 +6,6 @@
 👋 Hi, I'm **Jorge Guedes** - Full-Stack Developer focused on Frontend
 
 I develop web applications with special interest in the frontend, creating functional interfaces.
-<br><br>
-
----
 
 ## 💻 Tech
 
