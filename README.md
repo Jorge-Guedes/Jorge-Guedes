@@ -48,12 +48,9 @@ I develop web applications with special interest in the frontend, creating funct
 
 <div align="center">
   <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&langs_count=8&card_width=400&hide_border=true&theme=nord" style="max-width: 45%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&langs_count=8&card_width=400&hide_border=true&theme=tokyonight&title_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117" style="max-width: 45%;"/>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Jorge-Guedes&show_icons=true&theme=tokyonight&hide_title=falstitle_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-      width="45%"
-    />
+      src="https://github-readme-stats.vercel.app/api?username=Jorge-Guedes&show_icons=true&theme=tokyonight&hide_title=falstitle_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%"/>
   </div>
   <br/>
   <img
