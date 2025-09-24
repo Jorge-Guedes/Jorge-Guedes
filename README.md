@@ -48,7 +48,7 @@ I develop web applications with special interest in the frontend, creating funct
 
 <div align="center">
   <div>
-    <img height="180em" src="https://camo.githubusercontent.com/b779b4c11e7d3d876410ee55b79a97f5d29625fdf7f34121aa2273f0b4f3bd0e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72696465726d616e7362266c61796f75743d636f6d70616374266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&amp;layout=compact&amp;langs_count=8" style="max-width: 45%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&langs_count=8&card_width=400&hide_border=true&theme=nord" style="max-width: 45%;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Jorge-Guedes&show_icons=true&theme=tokyonight&hide_title=falstitle_color=02D9F7&icon_color=02D9F7&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"
       alt="GitHub Stats"
