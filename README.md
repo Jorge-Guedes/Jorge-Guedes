@@ -45,9 +45,7 @@ I develop web applications with special interest in the frontend, creating funct
 </div>
 
 ## 📈 GitHub Analytics
-
-<div>
-    <img
+<img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Guedes&layout=compact&theme=tokyonight&hide_title=falstitle_color=02D9F7&text_color=ffffff&bg_color=0d1117&langs_count=8"
       alt="Top Languages"
       width="40%"
@@ -63,7 +61,7 @@ I develop web applications with special interest in the frontend, creating funct
     alt="Profile Details"
     width="90%"
   />
-</div>
+
 
 ### 🏆 Achievements
 
