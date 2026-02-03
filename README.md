@@ -42,6 +42,7 @@ I develop web applications with special interest in the frontend, creating funct
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-guedes/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=journey&logoColor=white)](https://jorge-guedes-portfolio.netlify.app/)
 
 </div>
 
